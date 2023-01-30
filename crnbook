@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title>Cornelius Bookseller Website</title>
+<meta name="description" content="Page">
+<meta name="keywords" content="html tutorial template">
+</head>
+<body>
+Flick through as many pages of Cornelius Bookseller's books as you can endure.
+  
+  <a href="./crn.html">Home</a>
+</body>
+</html>
